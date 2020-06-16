@@ -1,4 +1,4 @@
 # Stopwatch
 * Basic JS Stopwatch
 
-           ![](/images/stopwatch.png)
+     ![](/images/stopwatch.png)
